@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Yuxuan Tian profile mark</title>
+  <desc id="desc">A monogram avatar with the initials YT.</desc>
+  <rect width="512" height="512" fill="#f6f2ef"/>
+  <circle cx="256" cy="256" r="214" fill="#7c1326"/>
+  <path d="M120 352h272" stroke="#f6f2ef" stroke-width="20" stroke-linecap="square"/>
+  <text x="256" y="298" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="164" font-weight="700" fill="#ffffff">YT</text>
+</svg>

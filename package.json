@@ -1,10 +1,10 @@
 {
-  "name": "academic-pages",
+  "name": "tianyuxuan-github-io",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Yuxuan Tian's academic homepage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/meowameowameow/tianyuxuan.github.io"
   },
   "keywords": [
     "jekyll",
@@ -17,9 +17,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+    "url": "https://github.com/meowameowameow/tianyuxuan.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://tianyuxuan.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
