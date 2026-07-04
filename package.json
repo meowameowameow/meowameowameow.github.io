@@ -1,10 +1,10 @@
 {
-  "name": "tianyuxuan-github-io",
+  "name": "meowameowameow-github-io",
   "version": "0.8.1.1",
   "description": "Yuxuan Tian's academic homepage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/meowameowameow/tianyuxuan.github.io"
+    "url": "https://github.com/meowameowameow/meowameowameow.github.io"
   },
   "keywords": [
     "jekyll",
@@ -17,9 +17,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/meowameowameow/tianyuxuan.github.io/issues"
+    "url": "https://github.com/meowameowameow/meowameowameow.github.io/issues"
   },
-  "homepage": "https://tianyuxuan.github.io",
+  "homepage": "https://meowameowameow.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },

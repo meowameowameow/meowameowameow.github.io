@@ -1,6 +1,6 @@
 # Yuxuan Tian's Academic Homepage
 
-This repository hosts the source for [tianyuxuan.github.io](https://tianyuxuan.github.io), built with Jekyll and the Academic Pages template.
+This repository hosts the source for [meowameowameow.github.io](https://meowameowameow.github.io), built with Jekyll and the Academic Pages template.
 
 ## Local Preview
 
