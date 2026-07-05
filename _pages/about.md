@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "田宇轩"
+title: "Yuxuan Tian"
+seo_title: "Yuxuan Tian - Peking University"
 author_profile: true
 hide_title: true
 ---
