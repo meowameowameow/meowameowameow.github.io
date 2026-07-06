@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuxuan Tian"
+title: "Yuxuan Tian - Peking University"
 seo_title: "Yuxuan Tian - Peking University"
 author_profile: true
 hide_title: true
