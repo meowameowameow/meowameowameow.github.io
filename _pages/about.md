@@ -61,9 +61,9 @@ hide_title: true
 
 <div class="projects-list">
   <div class="project-item">
-    <h3>北京市自然科学基金本科生“启研”计划</h3>
+    <h3>北京市自然科学基金</h3>
     <p class="project-period">2023 - 2025</p>
-    <p>担任项目负责人，开展高速数据流测量相关研究；相关成果发表于 ACM SIGKDD 和 ACM IMC。</p>
+    <p><strong>北京市自然科学基金本科生“启研”计划。</strong>担任项目负责人，开展高速数据流测量相关研究；相关成果发表于 ACM SIGKDD 和 ACM IMC。</p>
   </div>
 
   <div class="project-item">
