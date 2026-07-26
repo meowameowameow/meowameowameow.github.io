@@ -193,6 +193,26 @@ h3,
   margin-top: 0.1rem;
 }
 
+.news-list {
+  margin: 0.1rem 0 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: grid;
+    grid-template-columns: 4.25rem 1fr;
+    gap: 0.7rem;
+    padding: 0.58rem 0;
+    border-top: 1px solid #e7eaf0;
+  }
+}
+
+.news-year {
+  color: #3d5a80;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
 .edu-item,
 .project-item,
 .pub-item {
@@ -307,4 +327,5 @@ h3,
     display: block;
     overflow-x: auto;
   }
+
 }

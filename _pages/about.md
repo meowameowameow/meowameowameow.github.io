@@ -9,9 +9,10 @@ hide_title: true
 <section class="home-hero" id="home">
   <h1>Yuxuan Tian <span>田宇轩</span></h1>
   <p class="home-lead">I am a graduate student at the School of Software and Microelectronics, Peking University, advised by <a href="https://yangtonghome.github.io/">Prof. Tong Yang</a>. I received my B.S. in Computer Science and Technology from Peking University in 2025.</p>
-  <p class="home-lead">My research focuses on LLM post-training and efficient inference. I am currently interested in improving LLM reasoning and agentic coding abilities through high-quality data and training recipes, and reducing inference cost through system-level optimization.</p>
+  <p class="home-lead">My research focuses on LLM pre-training, post-training, and efficient inference. I am currently interested in improving mathematical and reasoning capabilities through high-quality data and training recipes, and reducing inference cost through system-level optimization.</p>
   <div class="home-actions">
     <a href="#interests">Interests</a>
+    <a href="#news">News</a>
     <a href="#projects">Projects</a>
     <a href="#research">Research</a>
     <a href="https://scholar.google.com/citations?user=vyCEHV4AAAAJ&hl=zh-CN">Google Scholar</a>
@@ -22,12 +23,12 @@ hide_title: true
 
 <div class="research-grid">
   <div class="research-card">
-    <h3>代码智能体</h3>
-    <p>Improving agentic coding ability and coding-oriented reasoning.</p>
+    <h3>数学&amp;推理预训练</h3>
+    <p>Pre-training for mathematical and reasoning capabilities through high-quality data and training pipelines.</p>
   </div>
   <div class="research-card">
-    <h3>推理后训练</h3>
-    <p>LLM reasoning post-training, data synthesis, SFT, and branch-merge distillation.</p>
+    <h3>数学&amp;推理后训练</h3>
+    <p>Post-training for mathematical reasoning with high-quality data, reasoning SFT, RL and Model Merge.</p>
   </div>
   <div class="research-card">
     <h3>高效推理</h3>
@@ -57,6 +58,15 @@ hide_title: true
 | 2023-2024 | 北京大学冈松奖学金、北京大学三好学生 |
 | 2025 | 北京大学优秀毕业生 |
 
+## News
+
+<ul class="news-list">
+  <li><span class="news-year">2026</span><span>小红书 Hi Lab-dots预训练 实习；数学与推理预训练pipeline建设</span></li>
+  <li><span class="news-year">2025</span><span>360智脑 实习；大模型数学推理与Agentic Coding能力后训练研究</span></li>
+  <li><span class="news-year">2025</span><span>就读北京大学软件与微电子学院硕士研究生</span></li>
+  <li><span class="news-year">2024</span><span>字节跳动 Seed-Infra 实习；KV Cache 压缩与推理优化</span></li>
+</ul>
+
 ## Projects
 
 <div class="projects-list">
@@ -67,7 +77,7 @@ hide_title: true
   </div>
 
   <div class="project-item">
-    <h3>华为“难题揭榜”火花奖项目</h3>
+    <h3>华为“难题揭榜”火花奖</h3>
     <p class="project-period">2024</p>
     <p>参与华为“难题揭榜”第八十八期-难题2“MoE训练的动态专家负载预测技术”，研究 MoE 训练过程中的动态专家负载预测，获得第97期火花奖；相关成果形成论文 <em>Prediction Is All MoE Needs</em>。</p>
   </div>
@@ -75,7 +85,7 @@ hide_title: true
   <div class="project-item">
     <h3>TinyR1-32B</h3>
     <p class="project-period">2025</p>
-    <p>负责 TinyR1-32B 模型的数学领域训练，围绕高质量数学数据、reasoning SFT 与 branch-merge distillation 提升模型能力，使模型达到同尺寸 SOTA 水平。<a href="https://huggingface.co/qihoo360/TinyR1-32B">Hugging Face</a></p>
+    <p>负责 TinyR1-32B 模型的数学&amp;推理领域后训练，围绕高质量数学数据、reasoning SFT 与 branch-merge distillation 提升模型能力，使模型数学能力达到同尺寸 SOTA 水平。<a href="https://huggingface.co/qihoo360/TinyR1-32B">Hugging Face</a></p>
   </div>
 </div>
 
