@@ -23,16 +23,16 @@ hide_title: true
 
 <div class="research-grid">
   <div class="research-card">
-    <h3>数学&amp;推理预训练</h3>
-    <p>Pre-training for mathematical and reasoning capabilities through high-quality data and training pipelines.</p>
+    <h3>Math &amp; Reasoning Pre-training</h3>
+    <p>High-quality data and scalable training pipelines for math &amp; reasoning.</p>
   </div>
   <div class="research-card">
-    <h3>数学&amp;推理后训练</h3>
-    <p>Post-training for mathematical reasoning with high-quality data, reasoning SFT, RL and Model Merge.</p>
+    <h3>Math &amp; Reasoning Post-training</h3>
+    <p>Reasoning SFT, RL, and model merging for math &amp; reasoning.</p>
   </div>
   <div class="research-card">
-    <h3>高效推理</h3>
-    <p>Efficient LLM inference, KV cache compression, and serving-time system optimization.</p>
+    <h3>Efficient Inference</h3>
+    <p>KV cache compression and serving-time system optimization.</p>
   </div>
 </div>
 
@@ -73,7 +73,7 @@ hide_title: true
   <div class="project-item">
     <h3>北京市自然科学基金</h3>
     <p class="project-period">2023 - 2025</p>
-    <p><strong>北京市自然科学基金本科生“启研”计划。</strong>担任项目负责人，开展高速数据流测量相关研究；相关成果发表于 ACM SIGKDD 和 ACM IMC。</p>
+    <p>北京市自然科学基金本科生“启研”计划。担任项目负责人，开展高速数据流测量相关研究；相关成果发表于 ACM SIGKDD 和 ACM IMC。</p>
   </div>
 
   <div class="project-item">
