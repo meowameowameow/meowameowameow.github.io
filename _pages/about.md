@@ -61,7 +61,7 @@ hide_title: true
 ## News
 
 <ul class="news-list">
-  <li><span class="news-year">2026</span><span>小红书 Hi Lab 实习；负责数学与 STEM 预训练 pipeline 构建</span></li>
+  <li><span class="news-year">2026</span><span>小红书 Hi Lab 实习；负责数学与 STEM 预训练 pipeline 构建，推进 Agent 能力 mid-training</span></li>
   <li><span class="news-year">2025</span><span>360 智脑实习；面向数学、推理与 Agent 能力的大模型后训练研究</span></li>
   <li><span class="news-year">2025</span><span>就读北京大学软件与微电子学院硕士研究生</span></li>
   <li><span class="news-year">2024</span><span>字节跳动 Seed-Infra 实习；KV Cache 压缩与推理优化</span></li>
